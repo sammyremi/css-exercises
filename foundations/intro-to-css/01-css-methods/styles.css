@@ -1,0 +1,19 @@
+div {
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    font-family: sans-serif;
+    color: white;
+}
+
+button {
+    background-color: rgb(248, 232, 7);
+    border-color: white;
+}
