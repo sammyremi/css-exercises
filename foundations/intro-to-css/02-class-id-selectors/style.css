@@ -1,0 +1,20 @@
+.first-last  {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.mid {
+    background-color: pink;
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
